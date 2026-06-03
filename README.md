@@ -1,137 +1,85 @@
-<h1 align="center">Hi 👋, I'm Pream Pareesh</h1>
-<h3 align="center">
-🚀 Scalable Full Stack Developer | AI Enthusiast | Hackathon Winner
-</h3>
+<div align="center">
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Java+%7C+Python+%7C+Docker+Enthusiast;Building+Scalable+Projects;2x+Hackathon+Winner;AI+%26+Cloud+Explorer" />
-</p>
+# Pream Pareesh
 
----
+**Full Stack Developer · AI Integration · Systems That Ship**
 
-<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prem-pareesh-331bbb346/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://cloud-portfolio-pi.vercel.app/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/prempareesh?s=21)
 
-## 🚀 About Me
-
-🎓 B.Tech 3rd Year Student — CSE (Data Science)  
-🏆 2x Hackathon Winner  
-💡 Passionate about building scalable and impactful projects  
-⚡ Exploring AI, Cloud, DevOps & Full Stack Development  
-🔥 Love turning ideas into real-world products  
-
-- 🌱 Currently learning **System Design & Advanced Backend Engineering**
-- 💬 Ask me about **Java, Python, SQL, Docker, Full Stack Development**
-- ⚡ Fun fact: I enjoy building projects that solve real problems
-- 🚀 Goal: Become a world-class Software Engineer
+</div>
 
 ---
 
-# 🌐 Connect With Me
+## About
 
-<p align="left">
-<a href="https://www.linkedin.com/in/prem-pareesh-331bbb346">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+B.Tech CSE (Data Science) · 2x Hackathon Winner
 
-<a href="https://x.com/prempareesh">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
+I build real-world products — not tutorials. Currently focused on **AI-powered tools**, **full-stack web apps**, and shipping things that actually work in production.
 
-<a href="https://lnkd.in/gapMYCyE">
-<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-</p>
+- 🔨 Currently building: **AI Developer Roast Lab** — GitHub + LinkedIn analysis with LLM-powered roasts
+- 🌱 Diving deep into: System Design, Advanced Backend Engineering, LLM integrations
+- 🤝 Open to: Freelance projects, collaborations, open-source contributions
+- 💬 Ask me about: Full Stack Dev, Docker, API integrations, AI tooling
 
 ---
 
-# 💻 Tech Stack
+## Tech Stack
 
-## 🚀 Languages
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,c,cpp" />
-</p>
+**Frontend**
 
-## 🌐 Frontend
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap" />
-</p>
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
-## ⚙️ Backend
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring,django,flask" />
-</p>
+**Backend**
 
-## 🛢️ Databases
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase" />
-</p>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-## ☁️ DevOps & Tools
-<p>
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,postman" />
-</p>
+**AI / ML**
 
----
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
 
-# 📊 GitHub Stats
+**DevOps**
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=prempareesh&show_icons=true&theme=tokyonight&hide_border=true" height="180em"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=prempareesh&theme=tokyonight&hide_border=true" height="180em"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prempareesh&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 ---
 
-# 🏆 GitHub Trophies
+## Featured Projects
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=prempareesh&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</p>
+| Project | Description | Stack | Status |
+|---------|-------------|-------|--------|
+| 🔥 [AI Developer Roast Lab](#) | GitHub + LinkedIn analysis with LLM-powered roasts and battle mode | Next.js · Groq · Docker | 🚧 Building |
+| 📱 [Fruit Ordering App](#) | Production-ready mobile ordering app with real-time cart + order flow | React Native · Expo | 🚧 Building |
+| 🤖 [XML Automation Agent](#) | Natural language → structured XML edits via MCP architecture | FastAPI · LLM · MCP | 🚧 Building |
 
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=prempareesh&theme=tokyo-night&hide_border=true"/>
-</p>
+> ⭐ Star a project if you find it useful — it helps more than you'd think.
 
 ---
 
-# 👀 Profile Views
+## GitHub Stats
 
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=prempareesh&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
-</p>
+<div align="center">
 
----
+![Pream's GitHub Stats](https://github-readme-stats.vercel.app/api?username=preampareesh&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=preampareesh&layout=compact&theme=github_dark&hide_border=true)
 
-# ✨ Quote I Believe In
-
-> “Build projects that people remember, not just projects that compile.”
+</div>
 
 ---
 
-<h3 align="center">
-⭐ From <a href="https://github.com/prempareesh">Pream Pareesh</a>
-</h3>
+<div align="center">
 
-<!--
-**prempareesh/prempareesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*Building in public. Shipping real things.*
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
